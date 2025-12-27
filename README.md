@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi I'm Rishita Chawla👋
 
 <!--
-**RishitaChawla/RishitaChawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RishitaChawla/RishitaChawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your Git
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌟 An enthusiatic college student who loves sharing her tech journey, learnings and builds<br/>
+🎓 Senior Computer Engineering student at University of North Carolina at Charlotte<br/>
+🤖 Focused on Robotics, Data Science, and Machine Learning<br/>
+🛰️ Worked as an Undergraduate Research Assistant in Autonomous Drone Systems<br/>
+🚚 Currently serving as Project Lead for my Senior Design Capstone, titled “Designing a Machine Learning Vision System for Axle Installation”</br>
+🔧 This GitHub includes: projects, experiments, write-ups, and the lessons learned while building
