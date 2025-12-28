@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishita Chawla</h1>
 <h3 align="center">A Senior Computer Engineering at University of North Carolina at Charlotte, passionate about Machine Learning and Robotics</h3>
 
-- 🔭 I worked as an Undergraduate Research Assistant in [Autonomous Multi-Drone Systems](https://github.com/RishitaChawla/Drone_Research.git)
+- 🔭 I worked as an Undergraduate Research Assistant in [**Autonomous Multi-Drone Systems**](https://github.com/RishitaChawla/Drone_Research.git)
 
-- 🚚 Currently serving as Project Lead for my Senior Design Capstone, titled **Designing a Machine Learning Vision System for Axle Installment**
+- 🚚 I am currently serving as the Project Lead for my Senior Design Capstone, titled [**Designing a Machine Learning Vision System for Axle Installment**](https://github.com/RishitaChawla/Designing-a-Machine-Learning-Vision-System-for-Axle-Installation/tree/main)
  
 - 🌱 I’m currently learning **Reinforcement Learning and Industrial Robotics**
 
