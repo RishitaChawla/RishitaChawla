@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishita Chawla</h1>
-<h3 align="center">A Senior Computer Engineering at University of North Carolina at Charlotte, passionate about Data Science, Machine Learning and Robotics</h3>
+<h3 align="center">A Senior Computer Engineering at University of North Carolina at Charlotte, passionate about Machine Learning and Robotics</h3>
 
 - 🔭 I worked as an Undergraduate Research Assistant in [Autonomous Multi-Drone Systems](https://github.com/RishitaChawla/Drone_Research.git)
 
