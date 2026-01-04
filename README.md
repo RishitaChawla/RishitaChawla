@@ -9,6 +9,8 @@
 
 - 🧪 This GitHub includes projects, experiments, and lessons learned while creating and improving **hardware and software systems**
 
+- Some of my hobbies are - playing my guitar, dancing and hanging out with my friends 
+
 <p align="center"><i>⭐ Please feel free to explore all my projects below, each with detailed explanations ⭐</i></p>
 
 
