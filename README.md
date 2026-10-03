@@ -1,25 +1,33 @@
 <h1 align="center">Hi 👋, I'm Rishita Chawla</h1>
 
-<h3 align="center">MSAI Student at Northeastern University | Robotics & AI | Computer Vision | Machine Learning</h3>
-
-* 🤖 I am currently pursuing a **Master of Science in Artificial Intelligence** at **Northeastern University**, specializing in **Robotics**.
-
-* 🎓 I previously earned my **B.S. in Computer Engineering** from the **University of North Carolina at Charlotte**, with a concentration in **Machine Learning**.
-
-* 🚁 I worked as an **Undergraduate Research Assistant** on **Autonomous Multi-Drone Systems**, developing multi-agent search and coordination capabilities using **ROS, Gazebo, computer vision, and path planning**.
-
-* 🚚 I served as the **Project Lead** for my Senior Design Capstone, where I developed a **machine learning-based computer vision system for axle installation** using **YOLO, OpenCV, NVIDIA Jetson, CUDA, and TensorRT**.
-
-* 🧠 I am currently expanding my knowledge in **Artificial Intelligence, Machine Learning, Reinforcement Learning, Computer Vision, and Robotics**.
-
-* 🔬 I am particularly interested in **robot perception, autonomous systems, 3D perception, intelligent agents, and AI-driven robotics**.
-
-* 💻 This GitHub showcases projects, experiments, and coursework focused on building **AI, robotics, computer vision, and intelligent software/hardware systems**.
-
-* 🎸 Outside of engineering, I enjoy **playing guitar, dancing, and spending time with friends**.
+<h3 align="center">MSAI Student at Northeastern University | AI & Robotics | Computer Vision | Embedded Systems | Hardware</h3>
 
 <p align="center">
-  <i>⭐ Feel free to explore my projects below — each includes detailed explanations of the problem, approach, implementation, and results. ⭐</i>
+I am currently pursuing a <b>Master of Science in Artificial Intelligence</b> at <b>Northeastern University</b> with a concentration in <b>Robotics</b>. I previously earned my <b>B.S. in Computer Engineering</b> from the <b>University of North Carolina at Charlotte</b>, with a concentration in Machine Learning.
+</p>
+
+<p align="center">
+My interests span <b>Artificial Intelligence, Machine Learning, Computer Vision, Robotics, Embedded Systems, Electrical Engineering, and Hardware</b>. I enjoy working across both software and hardware to build intelligent and autonomous systems.
+</p>
+
+<p align="center">
+My experience includes <b>robot perception, autonomous multi-drone systems, computer vision, machine learning, embedded programming, microcontrollers, sensor systems, and hardware-software integration</b>. I am particularly interested in applying AI to robotics and real-world systems while continuing to develop my skills in embedded and electrical engineering.
+</p>
+
+<p align="center">
+I have worked with technologies including <b>Python, C++, C, ROS/ROS2, OpenCV, PyTorch, TensorFlow, YOLO, STM32, Arduino, NVIDIA Jetson, CUDA, TensorRT, Gazebo, and embedded systems</b>.
+</p>
+
+<p align="center">
+This GitHub showcases my <b>projects, research, coursework, experiments, and lessons learned</b> while building and improving AI, robotics, embedded, hardware, and software systems.
+</p>
+
+<p align="center">
+Outside of engineering, I enjoy <b>playing guitar, dancing, and spending time with friends</b>.
+</p>
+
+<p align="center">
+<i>⭐ Feel free to explore my projects below — each includes detailed explanations of the problem, approach, implementation, and results. ⭐</i>
 </p>
 
 <h3 align="left">Connect with me:</h3>
