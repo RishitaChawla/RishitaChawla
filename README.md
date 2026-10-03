@@ -2,21 +2,23 @@
 
 <h3 align="center">MSAI Student at Northeastern University | AI & Robotics | Computer Vision | Embedded Systems | Hardware</h3>
 
-I am currently pursuing a **Master of Science in Artificial Intelligence** at **Northeastern University** with a concentration in **Robotics**. I previously earned my **B.S. in Computer Engineering** from the **University of North Carolina at Charlotte**, with a concentration in Machine Learning.
+* 🤖 I am currently pursuing a **Master of Science in Artificial Intelligence** at **Northeastern University**, with a concentration in **Robotics**.
 
-My interests span **Artificial Intelligence, Machine Learning, Computer Vision, Robotics, Embedded Systems, Electrical Engineering, and Hardware**. I enjoy working across both software and hardware to build intelligent and autonomous systems.
+* 🎓 I previously earned my **B.S. in Computer Engineering** from the **University of North Carolina at Charlotte**, with a concentration in **Machine Learning**.
 
-My experience includes **robot perception, autonomous multi-drone systems, computer vision, machine learning, embedded programming, microcontrollers, sensor systems, and hardware-software integration**. I am particularly interested in applying AI to robotics and real-world systems while continuing to develop my skills in embedded and electrical engineering.
+* 🧠 My interests span **Artificial Intelligence, Machine Learning, Computer Vision, Robotics, Embedded Systems, Electrical Engineering, and Hardware**. I enjoy working across both software and hardware to build intelligent and autonomous systems.
 
-I have worked with technologies including **Python, C++, C, ROS/ROS2, OpenCV, PyTorch, TensorFlow, YOLO, STM32, Arduino, NVIDIA Jetson, CUDA, TensorRT, Gazebo, and embedded systems**.
+* 🚁 My experience includes **robot perception, autonomous multi-drone systems, computer vision, machine learning, embedded programming, microcontrollers, sensor systems, and hardware-software integration**.
 
-This GitHub showcases my **projects, research, coursework, experiments, and lessons learned** while building and improving AI, robotics, embedded, hardware, and software systems.
+* 🔧 I am particularly interested in applying **AI to robotics and real-world systems**, while continuing to develop my skills in **embedded systems, electrical engineering, and hardware**.
 
-Outside of engineering, I enjoy **playing guitar, dancing, and spending time with friends**.
+* 💻 I have worked with technologies including **Python, C++, C, ROS/ROS2, OpenCV, PyTorch, TensorFlow, YOLO, STM32, Arduino, NVIDIA Jetson, CUDA, TensorRT, and Gazebo**.
 
-<p align="center">
-<i>⭐ Feel free to explore my projects below — each includes detailed explanations of the problem, approach, implementation, and results. ⭐</i>
-</p>
+* 🔬 This GitHub showcases my **projects, research, coursework, experiments, and lessons learned** while building and improving **AI, robotics, embedded, hardware, and software systems**.
+
+* 🎸 Outside of engineering, I enjoy **playing guitar, dancing, and spending time with friends**.
+
+<p align="center"><i>⭐ Feel free to explore my projects below — each includes detailed explanations of the problem, approach, implementation, and results. ⭐</i></p>
 
 <h3 align="left">Connect with me:</h3>
 
