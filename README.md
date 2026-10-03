@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishita Chawla</h1>
 
-<h3 align="center">MSAI Student at Northeastern University | AI & Robotics | Computer Vision | Embedded Systems | Hardware</h3>
+<h3 align="center">MSAI Student at Northeastern University | AI & Robotics | Computer Vision | Embedded Systems 
 
 * 🤖 I am currently pursuing a **Master of Science in Artificial Intelligence** at **Northeastern University**, with a concentration in **Robotics**.
 
