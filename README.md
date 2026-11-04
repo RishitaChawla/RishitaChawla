@@ -6,15 +6,7 @@
 
 * 🎓 I previously earned my **B.S. in Computer Engineering** from the **University of North Carolina at Charlotte**, with a concentration in **Machine Learning**.
 
-* 🧠 My interests span **Artificial Intelligence, Machine Learning, Computer Vision, Robotics, Embedded Systems, Electrical Engineering, and Hardware**. I enjoy working across both software and hardware to build intelligent and autonomous systems.
-
-* 🚁 My experience includes **robot perception, autonomous multi-drone systems, computer vision, machine learning, embedded programming, microcontrollers, sensor systems, and hardware-software integration**.
-
 * 🔧 I am particularly interested in applying **AI to robotics and real-world systems**, while continuing to develop my skills in **embedded systems, electrical engineering, and hardware**.
-
-* 💻 I have worked with technologies including **Python, C++, C, ROS/ROS2, OpenCV, PyTorch, TensorFlow, YOLO, STM32, Arduino, NVIDIA Jetson, CUDA, TensorRT, and Gazebo**.
-
-* 🔬 This GitHub showcases my **projects, research, coursework, experiments, and lessons learned** while building and improving **AI, robotics, embedded, hardware, and software systems**.
 
 * 🎸 Outside of engineering, I enjoy **playing guitar, dancing, and spending time with friends**.
 
